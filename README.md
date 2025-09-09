@@ -21,7 +21,9 @@ Progetto backend sviluppato con finalità didattiche. Fornisce un'API REST per l
 - MySQL
 - Maven
 
-**📌 Esempi di richieste REST**
+---
+
+## **📌 Esempi di richieste REST**
 
 Recupera tutti gli impiegati
 GET http://localhost:8080/employee/all
@@ -64,6 +66,8 @@ Corpo della richiesta (JSON):
 Elimina tutti gli impiegati
 DELETE http://localhost:8080/employee/deleteAll
 
-**📄 Licenza**
+---
+
+## **📄 Licenza**
 
 Progetto a scopo didattico – nessuna licenza commerciale applicata.
