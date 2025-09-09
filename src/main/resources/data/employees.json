@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Mario Rossi",
+    "email": "mario.rossi@example.com",
+    "jobTitle": "Software Engineer",
+    "phone": "3331234567",
+    "imageUrl": "mario-rossi.jpg",
+    "employeeCode": "1"
+  },
+  {
+    "id": 2,
+    "name": "Laura Bianchi",
+    "email": "laura.bianchi@example.com",
+    "jobTitle": "Project Manager",
+    "phone": "029876543",
+    "imageUrl": "laura-bianchi.jpg",
+    "employeeCode": "2"
+  },
+  {
+    "id": 3,
+    "name": "Giovanni Verdi",
+    "email": "giovanni.verdi@example.com",
+    "jobTitle": "Data Analyst",
+    "phone": "3476543210",
+    "imageUrl": "giovanni-verdi.jpg",
+    "employeeCode": "3"
+  },
+  {
+    "id": 4,
+    "name": "Sara Neri",
+    "email": "sara.neri@example.com",
+    "jobTitle": "UX Designer",
+    "phone": "061234567",
+    "imageUrl": "sara-neri.jpg",
+    "employeeCode": "4"
+  }
+]
